@@ -1,5 +1,5 @@
 # Hey there! I'm Mustafa Siddiqui
-A cs student with a passion for low-level programming languages and an aptitude for solving problems. <br>Actively advancing skills in Rust while concurrently engaged in the development of a mobile application using React Native.<br>
+A cs student with a passion for low-level programming languages. <br>Actively advancing skills in Rust while concurrently engaged in the development of a mobile application using React Native.<br>
 
 <br> Most of my work is private and under construction right now!
 
