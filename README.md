@@ -7,9 +7,7 @@ A cs student with a passion for low-level programming languages. <br>Actively ad
 
 <br> Most of my work is private and under construction right now!
 
-<div align="center">
-  <img class="img" src="https://streak-stats.demolab.com?user=mush1e&theme=vue-dark&hide_border=true&mode=weekly" />
-</div>
+<img class="img" src="https://streak-stats.demolab.com?user=mush1e&theme=vue-dark&hide_border=true&mode=weekly" />
 
 <br>
 
