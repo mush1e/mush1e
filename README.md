@@ -9,6 +9,8 @@ A cs student with a passion for low-level programming languages. <br>Actively ad
 
 <img class="img" src="https://streak-stats.demolab.com?user=mush1e&theme=vue-dark&hide_border=true&mode=weekly" />
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/mush1e?theme=dark)
+
 <br>
 
 
